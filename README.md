@@ -1,4 +1,4 @@
-# dataverse-example-case-portal
+# dataverse-contact-example-case-portal
 
 Example case management portal built with React + Tailwind CSS, showcasing the [dataverse-contact-api](https://github.com/TrueNorthIT/dataverse-contact-api).
 
